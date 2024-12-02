@@ -117,7 +117,7 @@ First, clone the `Linly-Dubbing` repository to your local machine and initialize
 
 ```bash
 # Clone the project to your local machine
-git clone https://github.com/Kedreamix/Linly-Dubbing.git --depth 1
+git clone https://github.com/Lukas101001/Linly-Dubbing.git --depth 1
 
 # Navigate to the project directory
 cd Linly-Dubbing
